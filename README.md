@@ -1,1 +1,2 @@
-# Actividad6--RepoPrivado primera actividad usando GitHub
+# Actividad6--RepoPrivado primera actividad usando GitHub.
+Main saludo a GitHub.
