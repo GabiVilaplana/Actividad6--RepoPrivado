@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/home/batoi/BATOI/Entorno/Actividades/U3/Actividad6/Actividad6--RepoPrivado/Actividad6/.metadata/.plugins/org.eclipse.jdt.core
-2949097923.index
